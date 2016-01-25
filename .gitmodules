@@ -1,0 +1,6 @@
+[submodule "job-frontend"]
+	path = job-frontend
+	url = https://github.com/ManitoYu/job-frontend.git
+[submodule "job-backend"]
+	path = job-backend
+	url = https://github.com/ManitoYu/job-backend.git
